@@ -1,6 +1,6 @@
 # TMGLpwn
 
-\[THIS CODE IS STILL BEING IMPROVED AND IS PART OF A BIGGER STUDY SO WAIT BEFORE MAKING ANY CONCLUSIONS. THANKS\]
+The code can be transformed in many different ways to obtain the desired datas. Lots of tests examples are detailed in the main to understand what kind of tests are doable.
 
 ## What is it?
 Code to proof test the TMGL format \*Sad music intensifies\*
